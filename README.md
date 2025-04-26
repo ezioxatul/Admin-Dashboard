@@ -51,6 +51,7 @@ This project fetches and manages product data from the [Fake Store API](https://
 ## 🛠 Technical Decisions
 
 - **Next.js 15 with App Router**: Chosen for its powerful, flexible routing and better file-based organization.
+- **shadcn/ui**: Integrated shadcn for building accessible, beautiful, and reusable components like buttons, cards, dialogs, and input fields quickly.
 - **Tanstack Query**: For efficient and optimized data fetching, caching, and state management.
 - **Tailwind CSS**: For rapid and responsive UI development with utility-first classes.
 - **TypeScript**: To ensure type safety and maintainability across the project.
